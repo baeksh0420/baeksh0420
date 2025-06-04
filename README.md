@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=0%:FFDCA2,100%:F9A6BB&height=200&section=header&text=👋%20Sohyeon%20Baek&fontSize=90&fontColor=FFFFFF&fontSize=10&fontAlign=35&desc=ML%20Engineer&descAlign=75)
 
+<br>
+
 ## 🌈 About me
 <div>
 <a href="https://www.linkedin.com/in/baeksh0420/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0e76a8?style=flat-square&logo=linkin&logoColor=white"/></a>
