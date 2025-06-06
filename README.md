@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=0%:FFDCA2,100%:F9A6BB&height=200&section=header&text=👋%20Sohyeon%20Baek&fontSize=90&fontColor=FFFFFF&fontSize=10&fontAlign=35&desc=ML%20Engineer&descAlign=75)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0%:FFDCA2,100%:F9A6BB&height=200&section=header&text=Sohyeon%20Baek%20👋&fontSize=90&fontColor=FFFFFF&fontSize=10&fontAlign=35&desc=ML%20Engineer&descAlign=75)
 
 ## 🌈 About me
 <div>
